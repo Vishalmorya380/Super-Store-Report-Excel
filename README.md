@@ -81,6 +81,3 @@ The **Super Store Report** provides a comprehensive summary of key business metr
 (See the dashboard image above)
 
 ---
-
-## 📁 File Structure
-
