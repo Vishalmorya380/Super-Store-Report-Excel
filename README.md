@@ -2,6 +2,7 @@
 
 This repository contains an interactive and visually rich **Super Store Report Dashboard** built using **Microsoft Excel**. The dashboard presents insightful analytics for a fictional retail superstore, focusing on sales, profits, shipping costs, and regional performance.
 
+![Dashboard Screenshot](SuperStoreReport.png)
 ---
 
 ## 📌 Project Overview
